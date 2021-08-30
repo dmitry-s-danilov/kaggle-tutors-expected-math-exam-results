@@ -1,4 +1,4 @@
-# [Tutors - expected math exam results][1]
+# [Kaggle competition. Tutors - expected math exam results][1]
 ## Predict average math exam results for students of the tutors
 
 ### Overview
@@ -18,7 +18,6 @@ _test.csv_ (only features).
 Вам будут даны два датасета:
 _train.csv_ (содержит признаки и целевую переменную) и
 _test.csv_ (только признаки).
-
 
 #### Evaluation
 
@@ -45,6 +44,8 @@ from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 import seaborn as sns
 ```
+
+---
 
 [1]: https://www.kaggle.com/c/tutors-expected-math-exam-results
 [2.1]: https://en.wikipedia.org/wiki/Coefficient_of_determination
