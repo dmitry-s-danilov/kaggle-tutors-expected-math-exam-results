@@ -26,7 +26,7 @@ setup(
         'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
     ],
-    keywords='machine-learning, regression, kaggle, python',
+    keywords='machine-learning, prediction-competition, python',
 
     license='MIT License',
     license_files=['LICENSE.txt'],
